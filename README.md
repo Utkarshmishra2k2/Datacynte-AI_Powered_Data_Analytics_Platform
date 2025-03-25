@@ -30,10 +30,13 @@
 
 ---
 
+## 🎥 **Application Walkthrough**
+_A demonstration video showcasing the functionality and features of the application will be provided here soon._
+
 ## 🛠️ **Tech Stack**
 
 - **Frontend:**  
-    - [Streamlit](https://streamlit.io) – Interactive web application for data exploration.  
+    - [Streamlit] – Interactive web application for data exploration.  
 - **Backend:**  
     - **Google Gemini AI** – AI-powered code generation for data analysis.  
     - **Astra DB** – (Optional) Vector database for storing query history.  
@@ -42,7 +45,6 @@
 
 ---
 
-## 📂 **Project Structure**
 ## 📂 **Project Structure**
 
 ```
