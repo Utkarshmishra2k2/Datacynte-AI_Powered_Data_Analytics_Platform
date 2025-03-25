@@ -76,3 +76,7 @@ streamlit run app.py
 If Astra DB integration is enabled:
 - Queries, generated code, and execution outputs are stored in the `chat_sessions` collection.
 - You can retrieve and review previous analyses for future reference.
+
+✨ Acknowledgments
+Developed by Utkarsh Mishra
+Powered by Google Gemini AI, Astra DB, and Streamlit
