@@ -1,0 +1,12 @@
+faiss-cpu
+langchain_community
+langchain-google-genai
+pandas
+numpy
+plotly
+seaborn
+matplotlib
+scikit-learn
+astrapy
+google-generativeai
+streamlit_modal
