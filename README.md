@@ -54,3 +54,25 @@
 ├── /plots           # Directory for storing generated visualizations
 
 ```
+### 1️⃣ **Clone the Repository**
+```bash
+git clone https://github.com/Utkarshmishra2k2/Datacynte-AI_Powered_Data_Analytics_Platform.git
+cd Datacynte-AI_Powered_Data_Analytics_Platform
+```
+
+### 2️⃣ **Install Dependencies**
+Install all required Python libraries:
+```bash
+pip install -r requirements.txt
+```
+
+### 3️⃣ **Run the Application**
+Start the Streamlit application:
+```bash
+streamlit run app.py
+```
+
+### 📊 **Data Storage in Astra DB**
+If Astra DB integration is enabled:
+- Queries, generated code, and execution outputs are stored in the `chat_sessions` collection.
+- You can retrieve and review previous analyses for future reference.
