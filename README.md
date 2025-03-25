@@ -43,9 +43,8 @@
 ---
 
 ## 📂 **Project Structure**
-
-├── backend.py # Backend logic: AI code generation, DB interactions, and execution
-├── app.py # Streamlit app with chat-based data exploration
-├── requirements.txt # List of dependencies
-├── README.md # Project documentation
-├── /plots # Directory for storing generated visualizations
+├── backend.py            # Backend logic: AI code generation, DB interactions, and execution
+├── app.py                # Streamlit app with chat-based data exploration
+├── requirements.txt      # List of dependencies
+├── README.md             # Project documentation
+├── /plots                # Directory for storing generated visualizations
